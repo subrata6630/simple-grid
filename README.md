@@ -64,9 +64,9 @@ To hide a element (column, div, a, etc.) on mobile and tablets you can add the c
 
 <h3>Grid Based Web Design</h3>
 
-<a href="https://www.youtube.com/watch?v=ERh3riPpoZg" title="Simple Grid examples">Simple Grid example Video</a>.</p>
+<a href="https://www.youtube.com/watch?v=ERh3riPpoZg" title="Simple Grid examples">Simple Grid example Video</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ERh3riPpoZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <h3>Copyright & License</h3>
 
