@@ -61,6 +61,11 @@ To hide a element (column, div, a, etc.) on mobile and tablets you can add the c
 <h3>Preview</h3>
 <p>To see the grid in action jump on over to the <a href="http://thisisdallas.github.com/Simple-Grid/" title="Simple Grid examples">Simple Grid example page</a>.</p>
 
+
+<h3>Grid Based Web Design</h3>
+
+<a href="https://www.youtube.com/watch?v=ERh3riPpoZg" title="Simple Grid examples">Simple Grid example Video</a>.</p>
+
 <h3>Copyright & License</h3>
 
 <p>Copyright (C) 2013 Dallas Bass - Released under the MIT License.</p>
@@ -69,4 +74,4 @@ To hide a element (column, div, a, etc.) on mobile and tablets you can add the c
 
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
 
-<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+
