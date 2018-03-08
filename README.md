@@ -66,6 +66,8 @@ To hide a element (column, div, a, etc.) on mobile and tablets you can add the c
 
 <a href="https://www.youtube.com/watch?v=ERh3riPpoZg" title="Simple Grid examples">Simple Grid example Video</a>.</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERh3riPpoZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>Copyright & License</h3>
 
 <p>Copyright (C) 2013 Dallas Bass - Released under the MIT License.</p>
